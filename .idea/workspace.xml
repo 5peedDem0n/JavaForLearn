@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Capitalize">
+  <component name="RunManager" selected="Application.Remove_Vowels">
     <configuration name="Capitalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.capitalize.Capitalize" />
       <module name="JavaForLearn" />
@@ -39,12 +39,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="latihan_aritmatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.tutorial.latihan_aritmatika" />
+    <configuration name="Remove_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.removeVowels.Remove_Vowels" />
       <module name="JavaForLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="id.felis.tutorial.*" />
+          <option name="PATTERN" value="id.felis.removeVowels.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operator_bitwase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.tutorial.operator_bitwase" />
+    <configuration name="latihan_aritmatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.tutorial.latihan_aritmatika" />
       <module name="JavaForLearn" />
       <extension name="coverage">
         <pattern>
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Remove_Vowels" />
         <item itemvalue="Application.Capitalize" />
         <item itemvalue="Application.latihan_aritmatika" />
         <item itemvalue="Application.tipe_data_primitive" />
         <item itemvalue="Application.operator_bitwise" />
-        <item itemvalue="Application.operator_bitwase" />
       </list>
     </recent_temporary>
   </component>
